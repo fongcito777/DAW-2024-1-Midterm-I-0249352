@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.navbar {
+  padding-left: 15rem;
+  padding-right: 15rem;
+  padding-top: 30px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.navbar .img {
+  display: inline-block;
+}
+
+.navbar .nav {
+  padding: 5px;
+  float: right;
+  line-height: 30px;
+  color: #070439;
+  font-size: 14px;
+}
+
+.parap1 {
+  padding-left: 15rem;
+  padding-right: 15rem;
+  padding-top: 100px;
+  padding-bottom: 15rem;
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+}
+
+.parap1 .text .title {
+  font-family: 'Raleway', sans-serif;
+  line-height: 5rem;
+  color: black;
+  padding-bottom: 15px;
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.parap1 .text {
+  color: black;
+  padding-right: 10px;
+  font-family: 'Open Sans', sans-serif;
+  width: 50rem;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.parap1 .text .paraph {
+  width: 35rem;
+}
+
+.parap1 .img {
+  padding-right: 10px;
+  padding-bottom: 3rem;
+}
+
+.parap1 .text .box {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  border: 2px solid #BFBFBF;
+  border-radius: 3px;
+  color: #BFBFBF;
+  padding-top: 10px;
+  width: 15rem;
+  height: 40px;
+  font-weight: 400;
+}
+
+.parap1 .text .button {
+  font-family: 'Raleway 400', sans-serif;
+  width: 10rem;
+  height: 40px;
+  background-color: #3065F8;
+  color: white;
+  border: 2px solid white;
+  border-radius: 6px;
+  align-content: center;
+  font-weight: 400;
+}
+
+.parap2 {
+  padding-left: 15rem;
+  padding-right: 15rem;
+  display: flex;
+  justify-content: space-between;
+  background-color: #F6F6FE;
+}
+
+.parap2 .title {
+  font-family: 'Raleway', sans-serif;
+  color: black;
+  padding-bottom: 15px;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.parap2 .text {
+  color: #585989;
+  padding-right: 10px;
+  font-family: 'Open Sans', sans-serif;
+  width: 50rem;
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.parap2 .text .paraph{
+  width: 39rem;
+}
+
+.parap2 .text .paraph .goto {
+  color: #3C9F8F;
+  text-decoration: underline;
+}
+
+.parap2 .text .paraph .goto {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #3C9F8F;
+  text-decoration: underline;
+}
+
+.parap3 {
+  padding-left: 15rem;
+  padding-right: 15rem;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  background-color: #585989;
+  color: #F6F6FE;
+}
+
+.parap3 .title {
+  font-family: 'Raleway', sans-serif;
+  padding-bottom: 15px;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.parap3 .paraph {
+  font-family: 'Open Sans', sans-serif;
+  width: 32rem;
+}
+
+.parap3 .right {
+  float: right;
+}
+
+.parap3 .right .box {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  border: 2px solid #BFBFBF;
+  border-radius: 3px;
+  color: #BFBFBF;
+  padding-top: 1rem;
+  width: 35rem;
+  height: 50px;
+  font-weight: 400;
+}
+
+.parap3 .right .button {
+  font-family: 'Raleway 400', sans-serif;
+  width: 10rem;
+  height: 40px;
+  background-color: #3065F8;
+  color: white;
+  border: 2px solid #3065F8;
+  border-radius: 6px;
+  align-content: center;
+  font-weight: 400;
+}
+
+.parap4 {
+  padding-left: 15rem;
+  padding-right: 15rem;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  background-color: #070439;
+  color: #BFBFBF;
+}
+
+.parap4 .text {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 3rem;
+}
+
+.parap4 .text .first .one {
+    padding-right: 10rem;
+}
+
+.parap4 .text .first .two {
+    padding-right: 10rem;
+}
+
+.parap4 .text .first .three {
+    padding-right: 10rem;
+}
+
+.parap4 .text .second .one {
+    padding-right: 189px;
+}
+
+.parap4 .text .second .two {
+    padding-right: 12rem;
+}
+
+.parap4 .text .third .one {
+    padding-right: 363px;
+}
+
+.parap4 .text .third .two {
+    padding-right: 186px;
+}
+
+.parap4 .text .fourth .one {
+    padding-right: 363px;
+}
